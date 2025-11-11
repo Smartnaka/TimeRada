@@ -1,0 +1,5 @@
+{
+  "name": "Trend Radar",
+  "description": "An app that scans trending topics on X (Twitter) and suggests potential tweet angles using the Gemini API to help users join the conversation.",
+  "requestFramePermissions": []
+}
